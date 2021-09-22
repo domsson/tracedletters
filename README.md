@@ -1,29 +1,27 @@
 # tracedletters
 
-When I was teaching English, I realized how hard it is to find good free 
+During my time as English teacher, I realized how hard it is to find good 
 resources for even the most basic of tasks - like practicing the ABC with 
 letter tracing worksheets. Don't get me wrong, they are available. But 
 they often require payment, registration, attribution or other rather 
 annoying limitations on use. That's when I decided to make my own simple 
-letter tracing work sheets. Feel free to use them anyway you like. 
+letter tracing work sheets. No branding, no usage terms, no nothing. 
+Feel free to use them anyway you like. Yes, even commercially. 
 
-## How they are done
+## Where to get the sheets
 
-I'm drawing these as SVG (vector graphics) with Inkscape. I then export 
-them to PDF (also via Inkscape). Simple as that.
+If you just want to use the sheets as is, check out the `pdf` directory, 
+it contains one file per letter which you can simply grab.
 
-## Status
+## How to edit the sheets
 
-A - P are done. The remaining letter will follow eventually.
+If you would like to add your branding or otherwise modify these, grab 
+the SVG (vector graphics) files from the `svg` directory. Note that you 
+will have to install the [Patrick Hand](https://fonts.google.com/specimen/Patrick+Hand) 
+font for correct display.
 
-## License
-
-The sheets themselves (that is: my SVG work) are public domain, but I'm 
-using [Patrick Hand](https://fonts.google.com/specimen/Patrick+Hand) as font,
-which is using the [Open Font License](https://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL). 
-
-I'm not sure what exactly that means, actually. Something I'll have to 
-research at some point...
+The SVG files have been created with Inkscape, but any program that can 
+display SVG files should be able to open these just fine.
 
 ## Support
 
