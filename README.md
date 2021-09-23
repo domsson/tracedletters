@@ -10,18 +10,19 @@ Feel free to use them anyway you like. Yes, even commercially.
 
 ## Where to get the sheets
 
-If you just want to use the sheets as is, check out the `pdf` directory, 
-it contains one file per letter which you can simply grab.
+Check out the `pdf` directory, it contains one PDF file per letter. The 
+letters have been turned into paths on export, which means you don't need 
+to install any fonts.
 
 ## How to edit the sheets
 
-If you would like to add your branding or otherwise modify these, grab 
-the SVG (vector graphics) files from the `svg` directory. Note that you 
-will have to install the [Patrick Hand](https://fonts.google.com/specimen/Patrick+Hand) 
+If you would like to add your branding or otherwise modify the sheets, grab 
+the SVG (vector graphics) files from the `svg` directory. Note that you will 
+have to install the [Patrick Hand](https://fonts.google.com/specimen/Patrick+Hand) 
 font for correct display.
 
 The SVG files have been created with Inkscape, but any program that can 
-display SVG files should be able to open these just fine.
+edit SVG files, like Adobe Illustrator, should be able to open these just fine.
 
 ## Support
 
